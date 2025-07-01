@@ -17,13 +17,14 @@
 Crea un archivo `requirements.txt`:
 
 ```
-Flask==2.3.3
+Flask==3.0.0
+Werkzeug==3.0.1
 opencv-python==4.8.1.78
+Pillow==10.1.0
+scikit-image==0.22.0
 numpy==1.24.3
-scipy==1.11.2
-scikit-image==0.21.0
-Pillow==10.0.0
-Werkzeug==2.3.7
+scipy==1.11.4
+python-multipart==0.0.6
 ```
 
 Instalar dependencias:
